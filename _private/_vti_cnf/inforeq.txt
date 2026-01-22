@@ -1,0 +1,17 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TR|05 May 2008 08:57:10 -0000
+vti_nosourcecontrol:SR|True
+vti_author:SR|sportcartoons
+vti_modifiedby:SR|KAS\\Gebruiker
+vti_nexttolasttimemodified:TR|29 Jan 2002 16:26:06 -0000
+vti_timecreated:TR|26 Aug 2002 16:16:03 -0000
+vti_extenderversion:SR|5.0.2.6790
+vti_syncwith_localhost\\c\:\\mijn documenten\\my webs\\myweb101/c\:/mijn documenten/my webs/myweb101:TR|29 Jan 2002 16:26:06 -0000
+vti_backlinkinfo:VX|feedback.htm
+vti_syncwith_localhost\\c\:\\documents and settings\\kas\\mijn documenten\\my webs\\myweb101/c\:/documents and settings/kas/mijn documenten/my webs/myweb101:TR|29 Jan 2002 16:26:06 -0000
+vti_syncwith_localhost\\c\:\\documents and settings\\michael\\mijn documenten\\my webs\\sportcartoons.nl/c\:/documents and settings/michael/mijn documenten/my webs/sportcartoons.nl:TR|29 Jan 2002 16:26:06 -0000
+vti_syncwith_localhost\\c\:\\documents and settings\\kas\\mijn documenten\\myweb101/c\:/documents and settings/kas/mijn documenten/myweb101:TR|29 Jan 2002 16:26:06 -0000
+vti_lineageid:SR|{E8F6ACE5-BD8A-48D1-98C2-5F1D08B46909}
+vti_cacheddtm:TX|05 May 2008 08:57:10 -0000
+vti_filesize:IR|0
+vti_syncwith_www.sportcartoons.nl\:80:TR|05 May 2008 08:57:10 -0000
